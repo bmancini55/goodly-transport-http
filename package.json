@@ -17,7 +17,6 @@
   "author": "Brian <bmancini@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.4.1",
     "babel-regenerator-runtime": "^6.5.0",
     "body-parser": "^1.15.0",
     "debug": "^2.2.0",
